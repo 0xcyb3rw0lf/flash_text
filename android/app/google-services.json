@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9177272574",
+    "project_id": "flash-text-2208f",
+    "storage_bucket": "flash-text-2208f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9177272574:android:d9405627512b515c38d5af",
+        "android_client_info": {
+          "package_name": "com.omareldanasoury.flash_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9177272574-nno4k3jt7tt9rk983fgekopi5ucl2rru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmPUyV4O7sa1pixe3hwYdzoglhkWVXZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9177272574-nno4k3jt7tt9rk983fgekopi5ucl2rru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
